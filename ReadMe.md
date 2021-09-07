@@ -61,3 +61,6 @@ interface Girl {
 `public` 是公用的，类的内部和外部都可以访问
 `private` 是私有的，类的内部可以访问，类的外部和继承都不可以访问
 `protected` 是受保护的，类的继承可以访问，外部是不可访问的。
+
+
+八、`getter`和`setter`
