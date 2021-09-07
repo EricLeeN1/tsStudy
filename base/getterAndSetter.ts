@@ -15,12 +15,12 @@
 // chuichui.age = 28
 // console.log(chuichui.age);
 
-class Girl {
+class Girls {
   static sayHello() {
     return "Love";
   }
 }
 
-const girl = new Girl();
-console.log(Girl.sayHello());
+const girl = new Girls();
+console.log(Girls.sayHello());
 
